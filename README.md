@@ -4,7 +4,7 @@ Outside the tech world, I'm equally enthusiastic about various interests. I'm an
 
 
 🧰 Toolbox</br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64" /> /br <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="64" height="64" />
 
 
 
