@@ -11,7 +11,7 @@ My latest projects:
 
 Established a functional backend enabling scooter rentals with time-based calculations and computed annual revenue for the company. https://github.com/Archy97/Codelex/tree/TestingTask/RentalPlace/RentalPlace
 
-Developp a Flight Planner WEB API for generating scheduled flights using an SQL database. https://github.com/Archy97/FlightPlan
+Developed a Flight Planner WEB API for generating scheduled flights using an SQL database. https://github.com/Archy97/FlightPlan
 
 Update README.md
 👔 [LinkedIn](https://www.linkedin.com/in/artjoms-malisevs/) **|**  
