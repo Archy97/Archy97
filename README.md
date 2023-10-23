@@ -2,9 +2,9 @@ I'm Artjoms, a dedicated software developer with a relentless passion for expand
 
 Outside the tech world, I'm equally enthusiastic about various interests. I'm an active advocate for a healthy lifestyle, frequently found in the gym, skating, and swimming. My adventurous spirit leads me to explore new horizons and embrace novel experiences whenever I can. Driven by my deep-seated passion for unraveling real-world challenges through the art of coding, my fervent dedication extends to both my work and my personal pursuits.
 
-<hr></hr>
+
 🧰 Toolbox</br>
-<br><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="csharp logo" width="50px" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet logo" width="50px" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"><img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" alt="git logo" width="50px" style="max-width: 100%;"></a></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 Additional skills: </br>
 <br>
