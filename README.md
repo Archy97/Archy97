@@ -1,11 +1,6 @@
-### Hi there I'm Renars!
+I'm Artjoms, a dedicated software developer with a relentless passion for expanding my tech expertise. Professionally, I'm an avid .NET Software Developer, specializing in efficient backend development. My journey involves diving into the latest technologies, fostering continuous learning, and crafting innovative solutions.
 
-I'm a .NET Software Developer. I have experience in backend development using .NET technologies and I am passionate about creating efficient and effective software solutions.
-I've always liked puzzles and solving problems, and now I'm living my childhood dream by creating solutions for practical problems through coding. Resolving a problem that has kept me awake is one of the best feelings ever and coding has given me this satisfaction.
-I'm also enjoying the world of blockchains, particularly the test networks. </br>
-Beyond the digital realm, I'm also your go-to guru for the repair and maintenance of laptops, 
-desktop computers, servers, and mobile phones. 
-🔧💻📱
+Outside the tech world, I'm equally enthusiastic about various interests. I'm an active advocate for a healthy lifestyle, frequently found in the gym, skating, and swimming. My adventurous spirit leads me to explore new horizons and embrace novel experiences whenever I can. Driven by my deep-seated passion for unraveling real-world challenges through the art of coding, my fervent dedication extends to both my work and my personal pursuits.
 
 <hr></hr>
 🧰 Toolbox</br>
