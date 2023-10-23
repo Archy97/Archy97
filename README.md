@@ -13,7 +13,7 @@ Established a functional backend enabling scooter rentals with time-based calcul
 
 Developed a Flight Planner WEB API for generating scheduled flights using an SQL database. https://github.com/Archy97/FlightPlan
 
-Update README.md
+
 👔 [LinkedIn](https://www.linkedin.com/in/artjoms-malisevs/) **|**  
 📫 How to reach me: +29794878 **|**  
 📧 My email: mali.artjoms@inbox.lv **|**  
