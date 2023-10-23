@@ -3,8 +3,9 @@ I'm Artjoms, a dedicated software developer with a relentless passion for expand
 Outside the tech world, I'm equally enthusiastic about various interests. I'm an active advocate for a healthy lifestyle, frequently found in the gym, skating, and swimming. My adventurous spirit leads me to explore new horizons and embrace novel experiences whenever I can. Driven by my deep-seated passion for unraveling real-world challenges through the art of coding, my fervent dedication extends to both my work and my personal pursuits.
 
 
-🧰 Toolbox</br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="64" height="64" />
+🧰 Technical skills</br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="width: 100px;" />
+
 
 
 
